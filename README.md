@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ranveersingh Pawar
-- 👀 I’m very interested in Programming and building stuff
+- 👀 I’m very much interested in Programming and building stuff
 - Mail: ranveersinghpawar668@gmail.com
 - 😄 Pronouns: He/him
 
