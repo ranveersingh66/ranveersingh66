@@ -2,6 +2,7 @@
 - 👀 I’m very interested in Programming and building stuff
 - 📫 How to reach me https://www.instagram.com/ranveersingh___lmao/
 - 😄 Pronouns: He/him
+- Mail: ranveersinghpawar668@gmail.com
 
 
 <!---
