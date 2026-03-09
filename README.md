@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Ranveersingh Pawar
-- 👀 I’m very much interested in Programming and building stuff
-- Mail: ranveersinghpawar668@gmail.com
-- 😄 Pronouns: He/him
+# 👋 Hi, I'm Ranveersingh Pawar
 
-<!---
-ranveersingh66/ranveersingh66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Student Developer | Class 12  
+🚀 Currently learning Web Development and C++
+
+## 🔭 What I'm Working On
+- Learning HTML, CSS and JavaScript
+- Building small web development projects
+- Exploring C++ and Game dev
+
+## 🧠 Currently Learning
+- Web Development
+- Git & GitHub
+
+## 📫 Contact Me
+Email: ranveersinghpawar668@gmail.com
